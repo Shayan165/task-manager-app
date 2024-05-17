@@ -14,7 +14,7 @@ Server port used 5000
  Make sure you have mongoDb and mongosh cli installed, before running both clinet and server , run the mongosh commnd in a terminal to strt mongodb  
 
 ## Installation
- 1. Clone the repo 
+ 1. Clone the repo https://github.com/Shayan165/task-manager-app.git
 
  2. cd to folder client and run npm install and then run 'npm start'
 
